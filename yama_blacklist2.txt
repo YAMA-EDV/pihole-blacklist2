@@ -1,0 +1,14 @@
+#######################################
+###YAMA Industrials, Inc. 2017#########
+###Protection Series List-2############
+#######################################
+
+
+#Added 12/13/2017 from @hackread
+#This Fidget spinner app is sending other apps data to Chinese server, “Background System EToys” login system.
+api.e-toys.cn
+c.appjiagu.com
+#Added 12/19/2019 per RoadTrip and Online News
+curationservices.com
+adverrd.global.ssl.fastly.net
+coinrobot.xyz
