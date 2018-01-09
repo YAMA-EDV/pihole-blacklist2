@@ -1,5 +1,5 @@
 #######################################
-###YAMA Industrials, Inc. 2017#########
+###YAMA Industrials, Inc. 2017-2018####
 ###Protection Series List-2############
 #######################################
 
@@ -12,3 +12,12 @@ c.appjiagu.com
 curationservices.com
 adverrd.global.ssl.fastly.net
 coinrobot.xyz
+#Added 12/24/2017 from YAMA Threat Intelligence Unit
+unitcdn.info
+push.putaoya112.com
+global.ymtracking.com
+#Added 1/5-1/8-2018 per YAMA Threat Intelligence
+ads.undertone.com
+netup.ru
+net-art.cz
+pinspb.ru
