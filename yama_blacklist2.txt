@@ -23,3 +23,5 @@ net-art.cz
 pinspb.ru
 #Added 1/9/2018 per YAMA Threat Intelligence
 Adwerx.com
+#Added 1/19/2018 per eff
+adobeair.net
