@@ -1,5 +1,5 @@
 #######################################
-###YAMA Industrials, Inc. 2017-2018####
+###YAMA Industrials, Inc. 2017#########
 ###Protection Series List-2############
 #######################################
 
@@ -16,12 +16,63 @@ coinrobot.xyz
 unitcdn.info
 push.putaoya112.com
 global.ymtracking.com
-#Added 1/5-1/8-2018 per YAMA Threat Intelligence
-ads.undertone.com
-netup.ru
-net-art.cz
-pinspb.ru
-#Added 1/9/2018 per YAMA Threat Intelligence
-Adwerx.com
-#Added 1/19/2018 per eff
-adobeair.net
+#Added 4/17/2018
+#phishing
+pspwieruszow.pl
+#botnet
+laykni.com
+#zero-day malware
+filmi-porno-zvezdi-rossiya.dcshop.su
+#malware
+mdxh.com.cn
+#virus over ssl
+cyren-wsd.xyz
+#zero day phishing
+applecloudestoragesecurity-devicewarningalertcodex01001x.xyz
+#anonymizer
+cyren-wsd.xyz
+# Blocking mobile ad providers and some analytics providers
+bitmedia.io
+cdn.bitmedia.io
+www.bitmedia.io
+static.bitmedia.io
+www.bitstarz.com
+bitstarz.com
+# [Full-Page Ads]
+pconly4test.friendlysystems2upgrading.review
+friendlysystems2upgrading.review
+f020918.privacy4browsers.com
+privacy4browsers.com
+ask24update.trafficforupgrade.download
+trafficforupgrade.download
+easypdfcombine.com
+trck.addiliate.com
+addiliate.com
+jat01.iwantyourightnow.info
+iwantyourightnow.info
+messengertime.dist-app.com
+dist-app.com
+portmanchauffeurs.com
+oasis.com
+enterworldofupgradesalways.win
+testpconly12.enterworldofupgradesalways.win
+# FAKE Downloads
+getflash.co
+files.getflash.co
+www.getflash.co
+getflash.info
+files.getflash.info
+www.getflash.info
+css.getflash.info
+css.getflash.co
+findr.org
+www.findr.org
+# OTHER Lists
+Scarlet-Clicks.info
+07Bux.net
+10Bux.nt
+www.07Bux.net
+www.10Bux.nt
+www.b-u-x.net
+00bux.com
+www.00bux.com
